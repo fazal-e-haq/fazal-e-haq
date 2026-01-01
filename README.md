@@ -1,8 +1,13 @@
-<h1 align="center">Fazal – Flutter Developer</h1>
+<h1 align="center">Fazal-e-Haq</h1>
+<h2 align="center">Software Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0D6EFD&center=true&vCenter=true&width=520&lines=Flutter+Mobile+%26+Web+Developer;UI%2FUX+Focused+Engineer;API+Integration+Specialist;Clean+Architecture+Advocate" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Flutter+Mobile+%26+Web+Developer;UI%2FUX+Focused+Engineer;Scalable+App+Architecture;API+Integration+%26+Performance+Optimization" 
+    alt="Professional Typing Animation"
+  />
 </p>
+
 
 ---
 
@@ -29,17 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
----
-
-### 🚀 Flagship Projects
-
-| Project | Highlights |
-|-------|------------|
-| 🛒 **Flutter E-Commerce Web App** | API-based architecture, advanced UI |
-| 🔔 **Price Drop Alert App** | Real-time tracking & notifications |
-| 🎨 **Animated Category UI Kit** | Floating widgets, responsive layouts |
-
----
+ 
 
 ### 🌐 Connect
 
