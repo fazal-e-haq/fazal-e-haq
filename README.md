@@ -2,24 +2,36 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Flutter++Mobile+%26+Web+Developer;UI%2FUX++Designer;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;UI%2FUX+Designer" 
     alt="Professional Typing Animation"
   />
 </p>
 
-### 👨‍💻 About me
+---
 
-- Flutter Developer building **scalable mobile & web applications**
-- Focused on **UI excellence, performance optimization, and clean architecture**
-- Currently developing a CutCount App**
+### 👨‍💻 About Me
+
+<p align="center">
+  <strong style="font-size:18px;">
+  Flutter Developer building <br>
+  scalable mobile & web applications<br>
+  Focused on UI excellence, performance optimization,<br>
+  and clean architecture<br>
+  Currently developing the CutCount App
+  </strong>
+</p>
+
+---
 
 ### 🛠 Technology Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,git,vscode,androidstudio" />
 </p>
 
-### 🌐 Connect
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/fazal-e-haq">
@@ -41,8 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-e-haq&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
-
-
- 
-
- 
