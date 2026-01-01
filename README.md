@@ -1,5 +1,5 @@
 <h1 align="center">Fazal-e-Haq</h1>
-<h2 align="center">Software Developer</h2>
+ 
 
 <p align="center">
   <img 
@@ -22,9 +22,16 @@
 ### 🛠 Technology Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,git,github,androidstudio,vscode,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma" />
 </p>
 
+### 🌐 Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Performance
@@ -36,10 +43,4 @@
 
  
 
-### 🌐 Connect
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+ 
