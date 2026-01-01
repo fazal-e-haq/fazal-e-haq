@@ -1,15 +1,11 @@
 <h1 align="center">Fazal-e-Haq</h1>
- 
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Flutter+Mobile+%26+Web+Developer;UI%2FUX+Focused+Engineer;Scalable+App+Architecture;API+Integration+%26+Performance+Optimization" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+%26+Web+Developer;UI%2FUX+Focused+Engineer;Scalable+App+Architecture;API+Integration+%26+Performance+Optimization" 
     alt="Professional Typing Animation"
   />
 </p>
-
-
----
 
 ### 👨‍💻 Professional Summary
 
