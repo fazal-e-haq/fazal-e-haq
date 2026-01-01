@@ -12,14 +12,13 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <strong style="font-size:18px;">
-  Flutter Developer building <br>
-  scalable mobile & web applications<br>
-  Focused on UI excellence, performance optimization,<br>
-  and clean architecture<br>
-  Currently developing the CutCount App
-  </strong>
+- Flutter Developer building **scalable mobile & web applications**  
+- Focused on **UI excellence, performance optimization, and clean architecture**  
+- Currently developing the **CutCount App**
 </p>
+
+---
+
 
 ---
 
