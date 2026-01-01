@@ -1,4 +1,4 @@
-<h1 align="center">Fazal-e-Haq</h1>
+<h1 align="center">F a z a l   - e -   H a q</h1>
 
 <p align="center">
   <img 
@@ -8,15 +8,15 @@
 </p>
 
 ---
-
+---
 ### 👨‍💻 About Me
 
 <p align="center">
-- Flutter Developer building **scalable mobile & web applications**  
-- Focused on **UI excellence, performance optimization, and clean architecture**  
+- Flutter Developer building **scalable mobile & web applications**<br>
+- Focused on **UI excellence, performance optimization, and clean architecture**<br>
 - Currently developing the **CutCount App**
 </p>
-
+---
 ---
 
 
@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+---
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
+---
 ---
 
 ### 📊 GitHub Performance
@@ -52,3 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-e-haq&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
+---
+---
