@@ -1,15 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Fazal – Flutter Developer</h1>
 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fazal-e-haq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fazal-e-haq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-e-haq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0D6EFD&center=true&vCenter=true&width=520&lines=Flutter+Mobile+%26+Web+Developer;UI%2FUX+Focused+Engineer;API+Integration+Specialist;Clean+Architecture+Advocate" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fazal-e-haq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Professional Summary
+
+- Flutter Developer building **scalable mobile & web applications**
+- Focused on **UI excellence, performance optimization, and clean architecture**
+- Currently developing an advanced **E-Commerce Flutter Web Platform**
+
+---
+
+### 🛠 Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,git,github,androidstudio,vscode,firebase,figma" />
+</p>
+
+---
+
+### 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+
+---
+
+### 🚀 Flagship Projects
+
+| Project | Highlights |
+|-------|------------|
+| 🛒 **Flutter E-Commerce Web App** | API-based architecture, advanced UI |
+| 🔔 **Price Drop Alert App** | Real-time tracking & notifications |
+| 🎨 **Animated Category UI Kit** | Floating widgets, responsive layouts |
+
+---
+
+### 🌐 Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
