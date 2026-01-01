@@ -6,28 +6,22 @@
     alt="Professional Typing Animation"
   />
 </p>
-
 ---
 ---
 ### 👨‍💻 About Me
 
-<p align="center">
+<p align="left">
 - Flutter Developer building **scalable mobile & web applications**<br>
 - Focused on **UI excellence, performance optimization, and clean architecture**<br>
 - Currently developing the **CutCount App**
 </p>
 ---
 ---
-
-
----
-
 ### 🛠 Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,git,vscode,androidstudio" />
 </p>
-
 ---
 ---
 ### 🌐 Connect With Me
@@ -49,8 +43,8 @@
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-e-haq&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true" width="57%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-e-haq&theme=tokyonight&hide_border=true" width="57%"/>
 </p>
 ---
 ---
