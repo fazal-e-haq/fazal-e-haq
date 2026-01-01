@@ -1,56 +1,15 @@
-<h1 align="center">Hi 👋, I'm Fazal</h1>
-<h3 align="center">Flutter Developer | UI/UX Focused | App Performance Enthusiast</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fazal-e-haq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fazal-e-haq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-e-haq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fazal-e-haq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 About Me
-
-- 🎯 Focused on **Flutter Mobile & Web Development**
-- 🧠 Strong in **Dart, UI Design, State Management**
-- 🔥 Currently building advanced **E-Commerce Flutter Web App**
-- 📚 Learning **API Integration, Clean Architecture & Performance Optimization**
-- 💼 Open for **Internship / Junior Flutter Developer Roles**
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools |
-|---------|------|
-| Languages | Dart, Java (Basics) |
-| Frameworks | Flutter |
-| State Management | Provider, Riverpod (Learning) |
-| UI | Material UI, Custom Animations |
-| Backend | REST APIs |
-| Tools | Git, GitHub, VS Code, Android Studio |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🧩 Featured Projects
-
-| Project | Description |
-|-------|------------|
-| 🛒 Flutter E-Commerce Web App | Advanced UI, API based, Flutter Web only |
-| 📦 Price Drop Alert App | Track product prices & notify users |
-| 🎨 Animated Categories UI | 12 floating animated category buttons |
-
----
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: ADD_LATER  
-- Email: ADD_LATER  
-
----
-
-⭐ **If you like my work, please star my repositories**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
