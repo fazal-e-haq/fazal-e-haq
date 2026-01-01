@@ -7,18 +7,16 @@
   />
 </p>
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 About me
 
 - Flutter Developer building **scalable mobile & web applications**
 - Focused on **UI excellence, performance optimization, and clean architecture**
 - Currently developing an advanced **E-Commerce Flutter Web Platform**
 
----
-
 ### 🛠 Technology Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,git,vscode,androidstudio" />
 </p>
 
 ### 🌐 Connect
