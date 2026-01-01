@@ -6,8 +6,10 @@
     alt="Professional Typing Animation"
   />
 </p>
+
 ---
 ---
+
 ### 👨‍💻 About Me
 
 <p align="left">
@@ -15,15 +17,19 @@
 - Focused on **UI excellence, performance optimization, and clean architecture**<br>
 - Currently developing the **CutCount App**
 </p>
+
 ---
 ---
+
 ### 🛠 Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,git,vscode,androidstudio" />
 </p>
+
 ---
 ---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -37,6 +43,7 @@
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 ---
 ---
 
@@ -46,5 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true" width="57%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal-e-haq&theme=tokyonight&hide_border=true" width="57%"/>
 </p>
+
 ---
 ---
