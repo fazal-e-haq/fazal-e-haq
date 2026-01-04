@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-- Flutter Developer building **scalable mobile & web applications**<br>
-- Focused on **UI excellence, performance optimization, and clean architecture**<br>
-- Currently developing the **CutCount App**
+- Flutter Developer building scalable mobile & web applications<br>
+- Focused on UI excellence, performance optimization, and clean architecture<br>
+- Currently developing the CutCount App
 </p>
 
 ---
