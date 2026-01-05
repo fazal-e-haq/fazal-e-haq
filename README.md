@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;UI%2FUX+Designer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=800&color=0000FF&center=true&vCenter=true&width=700&lines=Software+Developer;UI%2FUX+Designer" 
     alt="Professional Typing Animation"
   />
 </p>
