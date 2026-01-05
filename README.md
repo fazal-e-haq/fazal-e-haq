@@ -8,33 +8,38 @@
 </p>
 
 ---
+
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <p align="left">
-- Flutter Developer building scalable mobile & web applications<br>
-- Focused on UI excellence, performance optimization, and clean architecture<br>
-- Currently developing the CutCount App
+● Flutter Developer building scalable mobile & web applications<br>
+● Currently developing the CutCount App and Portfolio
 </p>
 
 ---
+
 ---
 
-### 🛠 Technology Stack
+### Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,git,vscode,androidstudio" />
 </p>
 
 ---
+
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
-<p align="center">
+<p align="center" >
   <a href="https://github.com/fazal-e-haq">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+    <a href="https://leetcode.com/u/fazal-e-haq3/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/fazal-e-haq3/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -45,14 +50,16 @@
 </p>
 
 ---
+
 ---
 
-### 📊 GitHub Performance
+### GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fazal-e-haq&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fazal-e-haq&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
 ---
+
 ---
