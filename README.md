@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
     <a href="https://leetcode.com/u/fazal-e-haq3/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/fazal-e-haq3/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
