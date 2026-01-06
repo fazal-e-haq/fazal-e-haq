@@ -52,14 +52,3 @@
 ---
 
 ---
-
-### GitHub Performance
-
-<p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fazal-e-haq&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
----
