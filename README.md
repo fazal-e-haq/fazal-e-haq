@@ -25,19 +25,19 @@
 ### Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,html," />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,html,androidstudio" />
 </p>
 
 ---
 
 ---
 
-### Reach Me
+### Contact With Me
 
 <p align="center" >
-    <a href="https://leetcode.com/u/fazal-e-haq3/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
+<a href="https://www.instagram.com/fff_by_fazal/">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
   <a href="https://www.linkedin.com/in/fazal-e-haq3/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
