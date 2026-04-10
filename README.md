@@ -15,7 +15,6 @@
 
 <p align="left">
 ●  Flutter Developer building scalable mobile & web applications<br>
-●  Currently developing the CutCount App and Portfolio
 </p>
 
 ---
