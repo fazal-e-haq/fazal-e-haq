@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### About me
 
 <p align="left">
 ●  Flutter Developer building scalable mobile & web applications<br>
