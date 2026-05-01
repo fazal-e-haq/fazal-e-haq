@@ -15,6 +15,7 @@
 
 <p align="left">
 ●  Flutter Developer building scalable mobile & website applications<br>
+●  UI/UX Designer making beautiful mobile & website applications design<br>
 </p>
 
 ---
