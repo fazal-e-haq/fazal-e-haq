@@ -14,8 +14,7 @@
 ### About me
 
 <p align="left">
-●  Flutter Developer building scalable mobile application<br>
-●  UI/UX Designer making beautiful mobile & website designs<br>
+● 
 </p>
 
 ---
