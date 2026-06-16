@@ -15,7 +15,6 @@
 <p align="left">
 ● Building fast, scalable, and responsive Flutter applications for mobile and web.<br>
 ● Passionate about writing clean code and creating smooth user experiences.<br><br>
-
 ● Designing modern, user-focused interfaces with simplicity and usability in mind.<br>
 ● Turning ideas into intuitive and visually engaging UI/UX experiences using Figma.
 </p>
