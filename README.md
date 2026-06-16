@@ -26,7 +26,10 @@
 ### Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,figma,dart,java,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,androidstudio,git,github,postman" />
 </p>
 
 ---
