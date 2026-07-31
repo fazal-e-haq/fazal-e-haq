@@ -7,24 +7,12 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code" alt="Typing Animation" width="100%" />
-  </picture>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fazal-e-haq&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
 </div>
 
-<br>
-
-<!-- Custom Flutter & UI/UX Hero Image -->
-<div align="center">
-  <img src="assets/flutter_hero.jpg" width="450" alt="Flutter & UI/UX Design">
-</div>
 
 <h2 align="center"> 👨‍💻 Developer.dart </h2>
 
