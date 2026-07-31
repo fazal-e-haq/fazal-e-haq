@@ -1,56 +1,118 @@
- 
-<h1 align="center">F a z a l   - e -   H a q</h1>
+<!-- Top Animated Banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling" alt="Header" width="100%" />
+  </picture>
+</div>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2500&pause=900&color=blue&center=true&vCenter=true&width=700&lines=Flutter+Developer;UI%2FUX+Designer" 
-    alt="Professional Typing Animation"
-  />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+UIs;Architecting+scalable+Flutter+apps;Designing+seamless+user+experiences;Writing+clean,+maintainable+Dart+code" alt="Typing Animation" width="100%" />
+  </picture>
+</div>
 
----
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fazal-e-haq&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+</div>
 
-### About Me
+<br>
 
-<p align="left">
-● Building fast, scalable, and responsive Flutter applications for mobile and web.<br>
-● Passionate about writing clean code and creating smooth user experiences.<br><br>
-● Designing modern, user-focused interfaces with simplicity and usability in mind.<br>
-● Turning ideas into intuitive and visually engaging UI/UX experiences using Figma.
-</p>
+<!-- Custom Flutter & UI/UX Hero Image -->
+<div align="center">
+  <img src="assets/flutter_hero.jpg" width="450" alt="Flutter & UI/UX Design">
+</div>
 
----
----
+<h2 align="center"> 👨‍💻 Developer.dart </h2>
 
-### Technology Stack
+```dart
+import 'package:flutter/material.dart';
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,androidstudio,git,github,postman" />
-</p>
+// --- Domain Models ---
+abstract class Developer {}
+class Idea {}
+class Design {}
+class App {}
+class Success extends App { Success(App app); }
 
----
----
+/// Represents a passionate software engineer specializing in mobile and web development.
+/// 
+/// Combines clean architecture principles with pixel-perfect UI/UX design to 
+/// create seamless digital experiences.
+class FazalEHaq extends Developer {
+  final String name = 'Fazal-e-Haq';
+  final String role = 'Flutter Developer & UI/UX Designer';
+  
+  // --- Core Competencies ---
+  final Map<String, List<String>> techStack = const {
+    '🚀 Core':             ['Flutter', 'Dart'],
+    '🧠 State Mgmt':       ['Provider', 'GetX'],
+    '☁️ Backend & DB':   ['Firebase', 'Supabase', 'Isar Database'],
+    '🌐 Networking':       ['REST API', 'Postman'],
+    '🎨 UI/UX Design':     ['Figma', 'Canva'],
+    '🛠️ Tools & IDEs':    ['Git', 'GitHub', 'Android Studio', 'Antigravity'],
+  };
 
-### Contact With Me
+  /// Asynchronously builds scalable and highly responsive applications.
+  /// 
+  /// Takes an [Idea] and a [Design], and returns a production-ready application.
+  Future<App> buildApp({required Idea idea, required Design design}) async {
+    try {
+      // 1. Analyze and plan the architecture
+      await _analyzeRequirements(idea);
+      
+      // 2. Translate Figma designs into pixel-perfect widgets
+      final ui = await _craftIntuitiveInterfaces(design);
+      
+      // 3. Implement robust logic and state management
+      final app = await _writeCleanMaintainableCode(ui);
+      
+      return Success(app);
+    } catch (bug) {
+      // Squash bugs efficiently 🐛🔨
+      return _refactorAndFix(bug);
+    }
+  }
+  
+  // Reach out for collaborations, freelance work, or just to chat!
+  void contactMe() {
+    print('🌐 Portfolio: https://fazal-portfolio.web.app');
+    print('🔗 LinkedIn:  https://linkedin.com/in/fazal-e-haq3');
+    print('📧 Email:     fazal.e.haq216@gmail.com');
+    print('📸 Instagram: https://www.instagram.com/fazalehaq.dev');
+  }
 
-<p align="center">
-  <a href="https://fazal-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.instagram.com/fff_by_fazal/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fazal-e-haq3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fazalehaq37405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
+  // Private helpers
+  Future<void> _analyzeRequirements(Idea idea) async {}
+  Future<void> _craftIntuitiveInterfaces(Design design) async {}
+  Future<App> _writeCleanMaintainableCode(void ui) async => App();
+  App _refactorAndFix(Object bug) => App();
+}
 ```
+
+<br>
+
+<h2 align="center"> 🏆 GitHub Analytics </h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fazal-e-haq&theme=radical&no-frame=true&no-bg=true&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fazal-e-haq&theme=flat&no-frame=true&no-bg=true&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=fazal-e-haq&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </picture>
+</div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=default&hide_border=true&bg_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=fazal-e-haq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-e-haq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-e-haq&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal-e-haq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </picture>
+</div>
