@@ -31,10 +31,13 @@ class FazalEHaq {
   
   /// 🤝 Let's Connect!
   void contactMe() {
-    print('🌐 Portfolio: https://fazal-portfolio.web.app');
-    print('🔗 LinkedIn:  https://linkedin.com/in/fazal-e-haq3');
-    print('📧 Email:     fazal.e.haq216@gmail.com');
-    print('📸 Instagram: https://www.instagram.com/fazalehaq.dev');
+    print('Executing contact_links.dart...');
   }
 }
 ```
+
+> **`Console Output:`** <br>
+> 🌐 `Portfolio:` [fazal-portfolio.web.app](https://fazal-portfolio.web.app) <br>
+> 🔗 `LinkedIn :` [linkedin.com/in/fazal-e-haq3](https://www.linkedin.com/in/fazal-e-haq3) <br>
+> 📧 `Email    :` [fazal.e.haq216@gmail.com](mailto:fazal.e.haq216@gmail.com) <br>
+> 📸 `Instagram:` [instagram.com/fazalehaq.dev](https://www.instagram.com/fazalehaq.dev)
