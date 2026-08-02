@@ -8,8 +8,8 @@
 
 ```dart
 /* 
-  👋 Hello Recruiters & HR Managers!
-  I am Fazal, a Software Engineer specializing in Mobile Apps & Product Design.
+  👋 Hello!
+  I am Fazal, a Flutter Devloper & Product Design.
   I built my profile in Dart (my favorite language) to showcase my passion for code. 
   You can find my direct contact links in the Console Output below!
 */
