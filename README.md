@@ -1,16 +1,21 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling&fontColor=ffffff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI/UX%20Designer&descSize=22&descAlignY=58&animation=twinkling" alt="Header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Product%20Designer&descSize=22&descAlignY=58&animation=twinkling&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Product%20Designer&descSize=22&descAlignY=58&animation=twinkling&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Fazal-e-Haq&fontSize=70&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Product%20Designer&descSize=22&descAlignY=58&animation=twinkling" alt="Header" width="100%" />
   </picture>
 </div>
 
 ```dart
-/// A passionate Software Engineer specializing in Mobile Development and UI/UX Design.
-class FazalEHaq {
+/* 
+  👋 Hello Recruiters & HR Managers!
+  I am Fazal, a Software Engineer specializing in Mobile Apps & Product Design.
+  I built my profile in Dart (my favorite language) to showcase my passion for code. 
+  You can find my direct contact links in the Console Output below!
+*/
+class FazaleHaq {
   final String name = 'Fazal-e-Haq';
-  final String role = 'Flutter Developer & UI/UX Designer';
+  final String role = 'Flutter Developer & Product Designer';
 
   /// 🚀 Core Competencies
   final Map<String, List<String>> techStack = const {
@@ -18,15 +23,15 @@ class FazalEHaq {
     '🧠 State Mgmt':     ['Provider', 'GetX'],
     '☁️ Backend & DB': ['Firebase', 'Supabase', 'Isar Database'],
     '🌐 Networking':     ['REST API', 'Postman'],
-    '🎨 UI/UX Design':   ['Figma', 'Canva'],
+    '🎨 Product Design': ['Figma', 'Canva'],
     '🛠️ Tools & IDEs':  ['Git', 'GitHub', 'Android Studio', 'Antigravity'],
   };
 
   /// 💡 My Development Philosophy
   void whatIDo() {
-    print('1. Architect clean, scalable, and maintainable codebases.');
-    print('2. Translate complex logic into intuitive, pixel-perfect user interfaces.');
-    print('3. Deliver seamless, high-performance cross-platform digital experiences.');
+    print('1. I build digital products that people actually want to use.');
+    print('2. I focus on solving real business problems, not just writing code.');
+    print('3. I bridge the gap between beautiful design and flawless performance.');
   }
   
   /// 🤝 Let's Connect!
