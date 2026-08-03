@@ -21,7 +21,7 @@ class FazaleHaq {
   final Map<String, List<String>> techStack = const {
     '📱 Core':           ['Flutter', 'Dart'],
     '🧠 State Mgmt':     ['Provider', 'GetX'],
-    '☁️ Backend & DB': ['Firebase', 'Supabase', 'Isar Database'],
+    '🗄️ Backend & DB': ['Firebase', 'Supabase', 'Isar Database'],
     '🌐 Networking':     ['REST API', 'Postman'],
     '🎨 Product Design': ['Figma', 'Canva'],
     '🛠️ Tools & IDEs':  ['Git', 'GitHub', 'Android Studio', 'Antigravity'],
