@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Glad%20You%20Dropped%20By!&fontSize=60&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together&descSize=22&descAlignY=58&animation=twinkling&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=250&section=header&text=Glad%20You%20Dropped%20By!&fontSize=60&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together&descSize=22&descAlignY=58&animation=twinkling&fontColor=ffffff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Glad%20You%20Dropped%20By!&fontSize=60&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together&descSize=22&descAlignY=58&animation=twinkling" alt="Header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=My%20GitHub%20Workspace&fontSize=60&fontAlignY=38&desc=Building%20scalable%20products%20one%20commit%20at%20a%20time&descSize=22&descAlignY=58&animation=twinkling&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=250&section=header&text=My%20GitHub%20Workspace&fontSize=60&fontAlignY=38&desc=Building%20scalable%20products%20one%20commit%20at%20a%20time&descSize=22&descAlignY=58&animation=twinkling&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=My%20GitHub%20Workspace&fontSize=60&fontAlignY=38&desc=Building%20scalable%20products%20one%20commit%20at%20a%20time&descSize=22&descAlignY=58&animation=twinkling" alt="Header" width="100%" />
   </picture>
 </div>
 
