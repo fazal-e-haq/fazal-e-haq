@@ -9,7 +9,7 @@
 ```dart
 /* 
   👋 Hello!
-  I am Fazal, a Flutter Devloper & Product Designer.
+  I am F a z a l, a Flutter Devloper & Product Designer.
   I built my profile in Dart (my favorite language) to showcase my passion for code. 
   You can find my direct contact links in the Console Output below!
 */
