@@ -7,12 +7,6 @@
 </div>
 
 ```dart
-/* 
-  👋 Hello!
-  I am F a z a l, a Flutter Devloper & Product Designer.
-  I built my profile in Dart (my favorite language) to showcase my passion for code. 
-  You can find my direct contact links in the Console Output below!
-*/
 class Fazal-e-Haq {
   final String name = 'Fazal-e-Haq';
   final String role = 'Flutter Developer & Product Designer';
