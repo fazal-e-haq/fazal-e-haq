@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="230" viewBox="0 0 500 230">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FF8C00" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="heroBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#FF6347" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FF8C00" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="498" height="228" rx="16" fill="#161b22"/>
+  <rect x="1" y="1" width="498" height="228" rx="16" fill="url(#heroGrad)"/>
+  <rect x="1" y="1" width="498" height="228" rx="16" fill="none" stroke="url(#heroBorder)" stroke-width="1.5"/>
+
+  <!-- Name -->
+  <text x="250" y="45" fill="#c9d1d9" font-size="26" font-weight="bold" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">FAZAL-E-HAQ</text>
+
+  <!-- Bio -->
+  <text x="250" y="72" fill="#8b949e" font-size="13" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Flutter Developer & Product Designer</text>
+
+  <!-- Divider -->
+  <line x1="60" y1="90" x2="440" y2="90" stroke="#FF450040" stroke-width="1"/>
+
+  <!-- Quick stats -->
+  
+        <g transform="translate(60, 140)">
+          <text x="0" y="0" fill="#FF4500" font-size="22" font-weight="bold" font-family="'JetBrains Mono', monospace" text-anchor="middle">23</text>
+          <text x="0" y="20" fill="#8b949e" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">📦 Repos</text>
+        </g>
+        <g transform="translate(175, 140)">
+          <text x="0" y="0" fill="#FF4500" font-size="22" font-weight="bold" font-family="'JetBrains Mono', monospace" text-anchor="middle">7</text>
+          <text x="0" y="20" fill="#8b949e" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">⭐ Stars</text>
+        </g>
+        <g transform="translate(290, 140)">
+          <text x="0" y="0" fill="#FF4500" font-size="22" font-weight="bold" font-family="'JetBrains Mono', monospace" text-anchor="middle">4</text>
+          <text x="0" y="20" fill="#8b949e" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">👥 Followers</text>
+        </g>
+        <g transform="translate(405, 140)">
+          <text x="0" y="0" fill="#FF4500" font-size="22" font-weight="bold" font-family="'JetBrains Mono', monospace" text-anchor="middle">0</text>
+          <text x="0" y="20" fill="#8b949e" font-size="11" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">🍴 Forks</text>
+        </g>
+
+  <!-- Skill tags -->
+  
+          <rect x="32" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="67" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Flutter</text>
+          <rect x="108" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="143" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Dart</text>
+          <rect x="184" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="219" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Firebase</text>
+          <rect x="260" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="295" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Figma</text>
+          <rect x="336" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="371" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Supabase</text>
+          <rect x="412" y="185" width="70" height="22" rx="11" fill="#FF450015" stroke="#FF450040" stroke-width="0.8"/>
+          <text x="447" y="200" fill="#FF6347" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">REST API</text>
+</svg>

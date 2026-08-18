@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340">
+  <defs>
+    <linearGradient id="fireGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4500"/>
+      <stop offset="50%" stop-color="#FF6347"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FF8C00" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes fadeIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="1" y="1" width="478" height="338" rx="16" fill="#161b22"/>
+  <rect x="1" y="1" width="478" height="338" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="240" y="40" fill="#FF4500" font-size="20" font-weight="bold" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle" filter="url(#glow)">📊 GitHub Stats Overview</text>
+  <line x1="40" y1="58" x2="440" y2="58" stroke="#FF450040" stroke-width="1"/>
+
+  <!-- Stats rows -->
+  
+        <g transform="translate(30, 95)" style="animation: fadeIn 0.5s ease 0.0s both;">
+          <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">⭐ Total Stars</text>
+          <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
+          <rect x="180" y="-8" width="56" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="56" dur="1.2s" fill="freeze" begin="0.0s"/>
+          </rect>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">7</text>
+        </g>
+        <g transform="translate(30, 137)" style="animation: fadeIn 0.5s ease 0.1s both;">
+          <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">🍴 Total Forks</text>
+          <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
+          <rect x="180" y="-8" width="0" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="0" dur="1.2s" fill="freeze" begin="0.15s"/>
+          </rect>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">0</text>
+        </g>
+        <g transform="translate(30, 179)" style="animation: fadeIn 0.5s ease 0.2s both;">
+          <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">📦 Public Repos</text>
+          <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
+          <rect x="180" y="-8" width="184" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="184" dur="1.2s" fill="freeze" begin="0.3s"/>
+          </rect>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">23</text>
+        </g>
+        <g transform="translate(30, 221)" style="animation: fadeIn 0.5s ease 0.30000000000000004s both;">
+          <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">👥 Followers</text>
+          <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
+          <rect x="180" y="-8" width="32" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="32" dur="1.2s" fill="freeze" begin="0.44999999999999996s"/>
+          </rect>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">4</text>
+        </g>
+        <g transform="translate(30, 263)" style="animation: fadeIn 0.5s ease 0.4s both;">
+          <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">👤 Following</text>
+          <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
+          <rect x="180" y="-8" width="16" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="16" dur="1.2s" fill="freeze" begin="0.6s"/>
+          </rect>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">2</text>
+        </g>
+
+  <!-- Timestamp -->
+  <text x="240" y="325" fill="#8b949e" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Last updated: 2026-08-18 15:34 UTC</text>
+</svg>
