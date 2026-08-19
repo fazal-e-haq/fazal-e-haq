@@ -1,22 +1,11 @@
 <!-- ═══════════════════════════════════════════════════ -->
-<!--    🔥  Fazal-e-Haq · GitHub Profile · v6          -->
-<!--    6 GitSkins-style SVG cards · Fire Theme        -->
+<!--    🔥  Fazal-e-Haq · GitHub Profile · v7          -->
+<!--    5 GitSkins-style SVG cards + Social Links      -->
 <!-- ═══════════════════════════════════════════════════ -->
 
 <!-- ① NAME CARD -->
 <div align="center">
   <img src="./assets/generated/hero-card.svg" alt="Fazal-e-Haq" width="100%"/>
-</div>
-
-<!-- Social Links (clickable) -->
-<div align="center">
-  <br/>
-  <a href="https://fazal-portfolio.web.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" alt="Portfolio"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/fazal-e-haq3"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:fazal.e.haq216@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>&nbsp;
-  <a href="https://www.instagram.com/fazalehaq.dev"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=fazal-e-haq&style=flat-square&color=FF4500&label=Profile+Views" alt="Views"/>
 </div>
 
 <br/>
@@ -51,13 +40,8 @@
 
 <br/>
 
-<!-- ⑥ LET'S CONNECT CARD -->
+<!-- ⑥ LET'S CONNECT (Social Links Only) -->
 <div align="center">
-  <img src="./assets/generated/connect-card.svg" alt="Connect" width="100%"/>
-
-  <br/><br/>
-
-  <!-- Clickable links under the card -->
   <a href="https://fazal-portfolio.web.app"><img src="https://img.shields.io/badge/🌐_Explore_Portfolio-FF4500?style=for-the-badge" height="38" alt="Portfolio"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fazal-e-haq3"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" height="38" alt="LinkedIn"/></a>
