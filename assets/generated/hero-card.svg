@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="835" height="190" viewBox="0 0 835 190">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" stop-opacity="0.9"/>
+      <stop offset="30%" stop-color="#FF6347" stop-opacity="0.7"/>
+      <stop offset="60%" stop-color="#FF8C00" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FF4500" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4500" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#FF6347" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FF8C00" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="outerGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF4500" flood-opacity="0.25"/>
+    </filter>
+    <filter id="textGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FF4500" flood-opacity="0.4"/>
+    </filter>
+    <clipPath id="avatarClip">
+      <circle cx="80" cy="80" r="40"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer glow shadow -->
+  <rect x="8" y="8" width="819" height="174" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2" filter="url(#outerGlow)"/>
+  
+  <!-- Card background -->
+  <rect x="8" y="8" width="819" height="174" rx="20" fill="url(#bgGrad)"/>
+  
+  <!-- Inner glow overlay -->
+  <rect x="8" y="8" width="819" height="174" rx="20" fill="url(#glowGrad)"/>
+  
+  <!-- Gradient border -->
+  <rect x="8" y="8" width="819" height="174" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+
+  <!-- Avatar circle -->
+  <circle cx="80" cy="80" r="42" fill="none" stroke="#FF4500" stroke-width="2.5" stroke-opacity="0.6"/>
+  <circle cx="80" cy="80" r="38" fill="#1a1f29"/>
+  <text x="80" y="72" text-anchor="middle" fill="#FF4500" font-size="28" font-weight="bold" font-family="'Segoe UI', sans-serif">F</text>
+  <text x="80" y="100" text-anchor="middle" fill="#FF6347" font-size="16" font-weight="600" font-family="'Segoe UI', sans-serif">H</text>
+
+  <!-- Username -->
+  <text x="145" y="50" fill="#FF4500" font-size="13" font-family="'JetBrains Mono', 'Fira Code', monospace" opacity="0.8">@fazal-e-haq</text>
+
+  <!-- Name -->
+  <text x="145" y="82" fill="#ffffff" font-size="32" font-weight="800" font-family="'Segoe UI', Ubuntu, sans-serif" filter="url(#textGlow)">Fazal-e-Haq</text>
+
+  <!-- Bio -->
+  <text x="145" y="110" fill="#8b949e" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif">Flutter Developer  ✦  Product Designer  ✦  Problem Solver</text>
+
+  <!-- Stats on right -->
+  <text x="720" y="62" text-anchor="middle" fill="#FF4500" font-size="28" font-weight="800" font-family="'Segoe UI', sans-serif" filter="url(#textGlow)">🇵🇰</text>
+  <text x="720" y="88" text-anchor="middle" fill="#8b949e" font-size="11" font-weight="600" font-family="'Segoe UI', sans-serif" letter-spacing="1.5">PAKISTAN</text>
+
+  <!-- Skill tags -->
+  <rect x="145" y="130" width="75" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="182" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">Flutter</text>
+
+  <rect x="232" y="130" width="60" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="262" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">Dart</text>
+
+  <rect x="304" y="130" width="78" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="343" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">Firebase</text>
+
+  <rect x="394" y="130" width="65" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="426" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">Figma</text>
+
+  <rect x="471" y="130" width="85" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="513" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">Supabase</text>
+
+  <rect x="568" y="130" width="78" height="28" rx="14" fill="#FF450015" stroke="#FF450060" stroke-width="1"/>
+  <text x="607" y="149" text-anchor="middle" fill="#FF4500" font-size="12" font-weight="600" font-family="'Segoe UI', sans-serif">REST API</text>
+</svg>
