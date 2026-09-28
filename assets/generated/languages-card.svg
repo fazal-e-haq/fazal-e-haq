@@ -18,33 +18,33 @@
         <g transform="translate(30, 80)">
           <text x="0" y="0" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">Dart</text>
           <rect x="120" y="-9" width="260" height="18" rx="9" fill="#21262d"/>
-          <rect x="120" y="-9" width="313" height="18" rx="9" fill="#00B4AB" opacity="0.85">
-            <animate attributeName="width" from="0" to="313" dur="1s" fill="freeze" begin="0.0s"/>
+          <rect x="120" y="-9" width="315" height="18" rx="9" fill="#00B4AB" opacity="0.85">
+            <animate attributeName="width" from="0" to="315" dur="1s" fill="freeze" begin="0.0s"/>
           </rect>
-          <text x="395" y="0" fill="#00B4AB" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">89.5%</text>
+          <text x="395" y="0" fill="#00B4AB" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">90.0%</text>
           <!-- Color dot -->
           <circle cx="415" cy="0" r="5" fill="#00B4AB"/>
         </g>
         <g transform="translate(30, 118)">
           <text x="0" y="0" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">Python</text>
           <rect x="120" y="-9" width="260" height="18" rx="9" fill="#21262d"/>
-          <rect x="120" y="-9" width="18" height="18" rx="9" fill="#3572A5" opacity="0.85">
-            <animate attributeName="width" from="0" to="18" dur="1s" fill="freeze" begin="0.12s"/>
+          <rect x="120" y="-9" width="17" height="18" rx="9" fill="#3572A5" opacity="0.85">
+            <animate attributeName="width" from="0" to="17" dur="1s" fill="freeze" begin="0.12s"/>
           </rect>
-          <text x="395" y="0" fill="#3572A5" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">5.3%</text>
+          <text x="395" y="0" fill="#3572A5" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">5.0%</text>
           <!-- Color dot -->
           <circle cx="415" cy="0" r="5" fill="#3572A5"/>
         </g>
         <g transform="translate(30, 156)">
           <text x="0" y="0" fill="#c9d1d9" font-size="13" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">JavaScript</text>
           <rect x="120" y="-9" width="260" height="18" rx="9" fill="#21262d"/>
-          <rect x="120" y="-9" width="18" height="18" rx="9" fill="#f1e05a" opacity="0.85">
-            <animate attributeName="width" from="0" to="18" dur="1s" fill="freeze" begin="0.24s"/>
+          <rect x="120" y="-9" width="17" height="18" rx="9" fill="#f1e05a" opacity="0.85">
+            <animate attributeName="width" from="0" to="17" dur="1s" fill="freeze" begin="0.24s"/>
           </rect>
-          <text x="395" y="0" fill="#f1e05a" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">5.3%</text>
+          <text x="395" y="0" fill="#f1e05a" font-size="13" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">5.0%</text>
           <!-- Color dot -->
           <circle cx="415" cy="0" r="5" fill="#f1e05a"/>
         </g>
 
-  <text x="230" y="212" fill="#8b949e" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Based on 19 repositories</text>
+  <text x="230" y="212" fill="#8b949e" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Based on 20 repositories</text>
 </svg>

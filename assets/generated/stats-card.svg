@@ -47,10 +47,10 @@
         <g transform="translate(30, 179)" style="animation: fadeIn 0.5s ease 0.2s both;">
           <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">📦 Public Repos</text>
           <rect x="180" y="-8" width="240" height="16" rx="8" fill="#21262d"/>
-          <rect x="180" y="-8" width="184" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
-            <animate attributeName="width" from="0" to="184" dur="1.2s" fill="freeze" begin="0.3s"/>
+          <rect x="180" y="-8" width="192" height="16" rx="8" fill="url(#fireGradient)" opacity="0.9">
+            <animate attributeName="width" from="0" to="192" dur="1.2s" fill="freeze" begin="0.3s"/>
           </rect>
-          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">23</text>
+          <text x="430" y="0" fill="#FF4500" font-size="15" font-weight="bold" font-family="'JetBrains Mono', monospace" dominant-baseline="middle" text-anchor="end">24</text>
         </g>
         <g transform="translate(30, 221)" style="animation: fadeIn 0.5s ease 0.30000000000000004s both;">
           <text x="0" y="0" fill="#c9d1d9" font-size="14" font-family="'Segoe UI', Ubuntu, sans-serif" dominant-baseline="middle">👥 Followers</text>
@@ -70,5 +70,5 @@
         </g>
 
   <!-- Timestamp -->
-  <text x="240" y="325" fill="#8b949e" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Last updated: 2026-09-28 12:46 UTC</text>
+  <text x="240" y="325" fill="#8b949e" font-size="10" font-family="'Segoe UI', Ubuntu, sans-serif" text-anchor="middle">Last updated: 2026-09-28 22:53 UTC</text>
 </svg>
