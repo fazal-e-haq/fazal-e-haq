@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Darzi Dairy — An offline-first order book and expense ledger for tailoring workshops — built to replace the paper khata register.">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#E8470F" stop-opacity="0.072"/>
+      <stop offset="1" stop-color="#E8470F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="289" rx="20" fill="#FFFFFF" stroke="#E4E4E7"/>
+  <rect x="1" y="1" width="1198" height="288" rx="19" fill="url(#g)"/>
+  <text x="36" y="56" fill="#E8470F" font-size="13" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >FEATURED  ·  BUSINESS</text>
+  <circle cx="1144" cy="50" r="20" fill="#F1F1F3" stroke="#E4E4E7"/>
+  <path d="M1139 55 L1149 45 M1141 45 L1149 45 L1149 53" stroke="#09090B" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="114" fill="#09090B" font-size="40" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-1.2" text-anchor="start" >Darzi Dairy</text>
+  <text x="36" y="150" fill="#52525B" font-size="21" font-weight="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="0" text-anchor="start" >An offline-first order book and expense ledger for tailoring</text>
+  <text x="36" y="180" fill="#52525B" font-size="21" font-weight="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="0" text-anchor="start" >workshops — built to replace the paper khata register.</text>
+  <rect x="36" y="224" width="137" height="30" rx="15" fill="#F1F1F3" stroke="#E4E4E7"/>
+  <text x="104.5" y="244" fill="#52525B" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Offline-first</text>
+  <rect x="181" y="224" width="171" height="30" rx="15" fill="#F1F1F3" stroke="#E4E4E7"/>
+  <text x="266.5" y="244" fill="#52525B" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Bilingual EN / UR</text>
+  <rect x="360" y="224" width="171" height="30" rx="15" fill="#F1F1F3" stroke="#E4E4E7"/>
+  <text x="445.5" y="244" fill="#52525B" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Tablet &amp; foldable</text>
+  <rect x="539" y="224" width="154" height="30" rx="15" fill="#F1F1F3" stroke="#E4E4E7"/>
+  <text x="616.0" y="244" fill="#52525B" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Daily roznamcha</text>
+</svg>

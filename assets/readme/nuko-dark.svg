@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="Nuko — An interactive periodic table with a deep-space glass UI and live Wikipedia lookups.">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#FF5A1F" stop-opacity="0.132"/>
+      <stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="589" height="299" rx="20" fill="#0A0A0B" stroke="#232327"/>
+  <rect x="1" y="1" width="588" height="298" rx="19" fill="url(#g)"/>
+  <text x="36" y="56" fill="#FF5A1F" font-size="13" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >EDUCATION  ·  WEB</text>
+  <circle cx="534" cy="50" r="20" fill="#1A1A1D" stroke="#232327"/>
+  <path d="M529 55 L539 45 M531 45 L539 45 L539 53" stroke="#F4F4F5" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="108" fill="#F4F4F5" font-size="34" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-1.2" text-anchor="start" >Nuko</text>
+  <text x="36" y="144" fill="#A1A1AA" font-size="21" font-weight="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="0" text-anchor="start" >An interactive periodic table with a deep-space</text>
+  <text x="36" y="174" fill="#A1A1AA" font-size="21" font-weight="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="0" text-anchor="start" >glass UI and live Wikipedia lookups.</text>
+  <rect x="36" y="234" width="119" height="30" rx="15" fill="#1A1A1D" stroke="#232327"/>
+  <text x="95.5" y="254" fill="#A1A1AA" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Live search</text>
+  <rect x="163" y="234" width="128" height="30" rx="15" fill="#1A1A1D" stroke="#232327"/>
+  <text x="227.0" y="254" fill="#A1A1AA" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Zero backend</text>
+  <rect x="299" y="234" width="154" height="30" rx="15" fill="#1A1A1D" stroke="#232327"/>
+  <text x="376.0" y="254" fill="#A1A1AA" font-size="14" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="middle" >Glassmorphic UI</text>
+</svg>

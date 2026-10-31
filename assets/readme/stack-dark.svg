@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-label="Toolkit: Flutter, Dart, Android Studio, Provider, Riverpod, GetX, Firebase, Supabase, Isar, REST APIs, Figma, Canva, Git &amp; GitHub, Postman, VS Code">
+  <rect x="0.5" y="0.5" width="1199" height="263" rx="20" fill="#0A0A0B" stroke="#232327"/>
+  <text x="52.0" y="58" fill="#52525B" font-size="12" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="start" >01</text>
+  <text x="80.0" y="58" fill="#FF5A1F" font-size="12" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >MOBILE</text>
+  <circle cx="56.0" cy="98" r="4" fill="#47C5FB"/>
+  <text x="70.0" y="104" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Flutter</text>
+  <circle cx="56.0" cy="136" r="4" fill="#00B4AB"/>
+  <text x="70.0" y="142" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Dart</text>
+  <circle cx="56.0" cy="174" r="4" fill="#3DDC84"/>
+  <text x="70.0" y="180" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Android Studio</text>
+  <line x1="254.4" y1="28" x2="254.4" y2="236" stroke="#232327"/>
+  <text x="282.4" y="58" fill="#52525B" font-size="12" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="start" >02</text>
+  <text x="310.4" y="58" fill="#FF5A1F" font-size="12" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >STATE</text>
+  <circle cx="286.4" cy="98" r="4" fill="#8B5CF6"/>
+  <text x="300.4" y="104" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Provider</text>
+  <circle cx="286.4" cy="136" r="4" fill="#00ACC1"/>
+  <text x="300.4" y="142" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Riverpod</text>
+  <circle cx="286.4" cy="174" r="4" fill="#A78BFA"/>
+  <text x="300.4" y="180" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >GetX</text>
+  <line x1="484.8" y1="28" x2="484.8" y2="236" stroke="#232327"/>
+  <text x="512.8" y="58" fill="#52525B" font-size="12" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="start" >03</text>
+  <text x="540.8" y="58" fill="#FF5A1F" font-size="12" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >DATA</text>
+  <circle cx="516.8" cy="98" r="4" fill="#FFCA28"/>
+  <text x="530.8" y="104" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Firebase</text>
+  <circle cx="516.8" cy="136" r="4" fill="#3FCF8E"/>
+  <text x="530.8" y="142" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Supabase</text>
+  <circle cx="516.8" cy="174" r="4" fill="#F97316"/>
+  <text x="530.8" y="180" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Isar</text>
+  <circle cx="516.8" cy="212" r="4" fill="#26A69A"/>
+  <text x="530.8" y="218" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >REST APIs</text>
+  <line x1="715.2" y1="28" x2="715.2" y2="236" stroke="#232327"/>
+  <text x="743.2" y="58" fill="#52525B" font-size="12" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="start" >04</text>
+  <text x="771.2" y="58" fill="#FF5A1F" font-size="12" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >DESIGN</text>
+  <circle cx="747.2" cy="98" r="4" fill="#F24E1E"/>
+  <text x="761.2" y="104" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Figma</text>
+  <circle cx="747.2" cy="136" r="4" fill="#00C4CC"/>
+  <text x="761.2" y="142" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Canva</text>
+  <line x1="945.6" y1="28" x2="945.6" y2="236" stroke="#232327"/>
+  <text x="973.6" y="58" fill="#52525B" font-size="12" font-weight="400" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="0" text-anchor="start" >05</text>
+  <text x="1001.6" y="58" fill="#FF5A1F" font-size="12" font-weight="600" font-family="'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace" letter-spacing="2" text-anchor="start" >WORKFLOW</text>
+  <circle cx="977.6" cy="98" r="4" fill="#F05032"/>
+  <text x="991.6" y="104" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Git &amp; GitHub</text>
+  <circle cx="977.6" cy="136" r="4" fill="#FF6C37"/>
+  <text x="991.6" y="142" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >Postman</text>
+  <circle cx="977.6" cy="174" r="4" fill="#007ACC"/>
+  <text x="991.6" y="180" fill="#F4F4F5" font-size="19" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" letter-spacing="-0.2" text-anchor="start" >VS Code</text>
+</svg>
